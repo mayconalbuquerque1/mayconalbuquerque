@@ -1,10 +1,10 @@
 # Maycon Albuquerque
 
-Sou um estudante de 20 anos cursando Análise e Desenvolvimento de Sistemas. Atualmente, atuo na área de TI como ponto focal de uma equipe de suporte (HelpDesk) especializada em CRM. Nosso atendimento é voltado para os colaboradores da força de vendas da Eurofarma, incluindo propagandistas vendedores, gerentes distritais e regionais.
+Sou um estudante de 20 anos cursando Data Science. Atualmente, atuo na área de TI como analista de dados (Métricas BI). Trabalho com diversos clientes como Eurofarma, Ambev, Usiminas, etc.
 
 # Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-albuquerque/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayconalbuquerque/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayconalbuquerque1)
 
@@ -13,7 +13,7 @@ Sou um estudante de 20 anos cursando Análise e Desenvolvimento de Sistemas. Atu
 # Habilidades
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![Python](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=powerbi&logoColor=ffdd54).
 
 # Sistema Operacional
 
