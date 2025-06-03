@@ -13,7 +13,8 @@ Sou um estudante de 20 anos cursando Data Science. Atualmente, atuo na área de 
 # Habilidades
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=powerbi&logoColor=ffdd54).
+
+![Python](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=powerbi&logoColor=ffdd54)
 
 # Sistema Operacional
 
