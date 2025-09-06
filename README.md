@@ -1,6 +1,6 @@
 # Maycon Albuquerque
 
-Sou um estudante de 20 anos cursando Data Science. Atualmente, atuo na área de TI como analista de dados (Métricas BI). Trabalho com diversos clientes como Eurofarma, Ambev, Usiminas, etc.
+Sou um estudante de 21 anos cursando Data Science. Atualmente, atuo na área de TI como analista de dados (Métricas BI). Trabalho com diversos clientes como Eurofarma, Ambev, Usiminas, etc.
 
 # Conecte-se comigo
 
